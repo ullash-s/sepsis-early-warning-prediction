@@ -99,5 +99,12 @@ This model provided the **most balanced sensitivity** across both classes, which
 
 ---
 
-## 📂 Repository Structure (Matches Project Workflow)
+## 📂 Repository Structure
 
+sepsis-early-warning-prediction/
+│
+├─ sepsis_early_warning_prediction.ipynb
+├─ data/
+├─ models/
+└─ figures/
+> **Note:** *Raw dataset is not included due to licensing and PHI restrictions.*
